@@ -11,6 +11,7 @@ namespace Git2_App
         static void Main(string[] args)
         {
             Console.WriteLine("Secondo esempio");
+            Console.ReadKey();
         }
     }
 }
