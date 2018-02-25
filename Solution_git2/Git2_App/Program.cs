@@ -10,7 +10,7 @@ namespace Git2_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Secondo esempio");
+            Console.WriteLine("Secondo esempio2");
             Console.ReadKey();
         }
     }
